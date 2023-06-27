@@ -1,0 +1,15 @@
+C:\Work_on_git\FinalTask\FinalControlWork\bin\Debug\net6.0\FinalControlWork.exe
+C:\Work_on_git\FinalTask\FinalControlWork\bin\Debug\net6.0\FinalControlWork.deps.json
+C:\Work_on_git\FinalTask\FinalControlWork\bin\Debug\net6.0\FinalControlWork.runtimeconfig.json
+C:\Work_on_git\FinalTask\FinalControlWork\bin\Debug\net6.0\FinalControlWork.dll
+C:\Work_on_git\FinalTask\FinalControlWork\bin\Debug\net6.0\FinalControlWork.pdb
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.csproj.AssemblyReference.cache
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.AssemblyInfoInputs.cache
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.AssemblyInfo.cs
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.csproj.CoreCompileInputs.cache
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.dll
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\refint\FinalControlWork.dll
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.pdb
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\FinalControlWork.genruntimeconfig.cache
+C:\Work_on_git\FinalTask\FinalControlWork\obj\Debug\net6.0\ref\FinalControlWork.dll
